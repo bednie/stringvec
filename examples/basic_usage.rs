@@ -1,7 +1,8 @@
 use stringvec::stringvec;
+use std::f64::consts::PI;
 
 fn main() {
-    let mixed_types = stringvec!["hello", 42, 'A', 3.5];
+    let mixed_types = stringvec!["hello", 42, 'A', PI];
     println!("Mixed types vector: {:?}", mixed_types);
 
     let names = stringvec!["Alice", "Bob", "Charlie"];
