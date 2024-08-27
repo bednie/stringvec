@@ -19,9 +19,9 @@ Then, in your Rust code:
 use stringvec::stringvec;
 
 fn main() {
-    let words = stringvec!["cat", 11, 'A', 3.14];
+    let words = stringvec!["cat", 11, 'A', 3.5];
     println!("{:?}", words);
-    // Output: ["cat", "11", "A", "3.14"]
+    // Output: ["cat", "11", "A", "3.5"]
 }
 ```
 
