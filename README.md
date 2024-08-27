@@ -1,6 +1,6 @@
 # stringvec
 
-![ci](https://github.com/bednie/stringvec/actions/workflows/WORKFLOW-FILE/badge.svg)
+![ci](https://github.com/bednie/stringvec/actions/workflows//badge.svg)
 
 A simple Rust macro for creating `Vec<String>` from various types.
 
