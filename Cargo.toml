@@ -7,6 +7,6 @@ description = "A simple macro for creating Vec<String> from various types"
 license = "LGPL-3.0-or-later"
 repository = "https://github.com/bednie/stringvec"
 keywords = ["vec", "string", "macro", "collection", "conversion"]
-categories = ["development-tools", "development-tools::procedural-macro-helpers", "data-structures", "rust-patterns"]
+categories = [ "data-structures", "rust-patterns"]
 
 [dependencies]
